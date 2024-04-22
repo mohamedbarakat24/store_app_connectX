@@ -24,7 +24,6 @@ environment:
 dependencies:
   capped_progress_indicator: ^0.0.2
   carousel_slider: ^4.2.1
-  connectivity_plus: ^5.0.2
   cupertino_icons: ^1.0.2
   firebase_storage: ^11.6.8
   flutter:
