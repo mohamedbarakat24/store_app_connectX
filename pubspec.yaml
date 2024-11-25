@@ -26,6 +26,9 @@ dependencies:
   carousel_slider: ^4.2.1
   cupertino_icons: ^1.0.2
   firebase_storage: ^11.6.8
+  firebase_core: 
+
+
   flutter:
     sdk: flutter
   flutter_rating_bar: ^4.0.1
@@ -67,7 +70,6 @@ flutter:
     - assets/images/content/
     - assets/images/reviews/
     - assets/icons/payment_methods/
-
   #--------------- LOCAL FONTS ------------------#
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
